@@ -76,8 +76,8 @@
 			<li Class="PatchOperationReplace">
 				<xpath>Defs/ThingDef[defName="DMS_Mech_Krepost"]/statBases/ShootingAccuracyPawn</xpath>
 				<value>
-					<CarryWeight>200</CarryWeight> <!--ridiculously overweight and over bulk weapon system and ammo :(-->
-					<CarryBulk>150</CarryBulk>
+					<CarryWeight>220</CarryWeight> <!--ridiculously overweight and over bulk weapon system and ammo :(-->
+					<CarryBulk>500</CarryBulk>
 					<AimingAccuracy>1.2</AimingAccuracy>
 					<ShootingAccuracyPawn>1.5</ShootingAccuracyPawn>
 					<MeleeDodgeChance>0.04</MeleeDodgeChance>
@@ -92,7 +92,7 @@
 			<li Class="PatchOperationReplace">
 				<xpath>Defs/ThingDef[defName="DMS_Mech_Krepost"]/statBases/ArmorRating_Blunt</xpath>
 				<value>
-					<ArmorRating_Blunt>357</ArmorRating_Blunt>
+					<ArmorRating_Blunt>600</ArmorRating_Blunt>
 				</value>
 			</li>
 
@@ -100,7 +100,7 @@
 			<li Class="PatchOperationReplace">
 				<xpath>Defs/ThingDef[defName="DMS_Mech_Krepost"]/statBases/ArmorRating_Sharp</xpath>
 				<value>
-					<ArmorRating_Sharp>60</ArmorRating_Sharp>
+					<ArmorRating_Sharp>85</ArmorRating_Sharp>
 				</value>
 			</li>
 
@@ -147,6 +147,13 @@
 						<MaxOverHeal>450</MaxOverHeal>
 						<MinArmorPct>0.8</MinArmorPct>
 					</li>
+				</value>
+			</li>
+
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[defName="DMS_Mech_Krepost"]/race/baseHealthScale</xpath>
+				<value>
+					<baseHealthScale>7.5</baseHealthScale>
 				</value>
 			</li>
 
