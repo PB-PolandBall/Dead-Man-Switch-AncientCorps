@@ -14,9 +14,9 @@
             <WorkToMake>80000</WorkToMake>
             <Mass>52</Mass>
             <Bulk>33</Bulk>
-            <RangedWeapon_Cooldown>1.19</RangedWeapon_Cooldown>
+            <RangedWeapon_Cooldown>0.6</RangedWeapon_Cooldown>
             <SightsEfficiency>1.2</SightsEfficiency>
-            <ShotSpread>0.05</ShotSpread>
+            <ShotSpread>0.06</ShotSpread>
             <SwayFactor>1.65</SwayFactor>
         </statBases>
 		<recipeMaker Inherit="False" />
@@ -44,7 +44,7 @@
             <defaultProjectile>Bullet_127x108mm_FMJ</defaultProjectile>
             <burstShotCount>14</burstShotCount>
             <ticksBetweenBurstShots>1</ticksBetweenBurstShots>
-            <warmupTime>1</warmupTime>
+            <warmupTime>1.8</warmupTime>
             <range>75</range>
             <soundCast>50Cal_Browning</soundCast>
             <soundCastTail>GunTail_Heavy</soundCastTail>

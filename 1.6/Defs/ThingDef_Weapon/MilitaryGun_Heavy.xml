@@ -12,7 +12,7 @@
 		</weaponClasses>
 		<weaponTags>
 			<li>DMS_KordMachineGun</li>
-			<li>DMS_MechWeaponHeavy</li>
+			<li>DMS_MechWeaponTransHeavy</li>
 			<li>A_SuppressWeaponHeavy</li>
 			<li>A_MG_Heavy</li>
 		</weaponTags>
@@ -79,7 +79,7 @@
 		</weaponClasses>
 		<weaponTags>
 			<li>DMS_VladimirovMachineGun</li>
-			<li>DMS_MechWeaponHeavy</li>
+			<li>DMS_MechWeaponTransHeavy</li>
 			<li>A_SuppressWeaponHeavy</li>
 			<li>A_MG_Heavy</li>
 		</weaponTags>
@@ -172,7 +172,7 @@
 		</weaponClasses>
 		<weaponTags>
 			<li>DMS_AerialAutocannon</li>
-			<li>DMS_MechWeaponHeavy</li>
+			<li>DMS_MechWeaponTransHeavy</li>
 			<li>A_SuppressWeaponHeavy</li>
 		</weaponTags>
 		<graphicData>
@@ -315,7 +315,6 @@
 		<description>A semi-automatic anti-tank cannon carried by ultra-heavy automatrons, known for its simple and reliable structure. It is widely used on various armored platforms to engage heavily armed and armored targets such as tanks and heavy mechs.</description>
 		<weaponTags>
 			<li>DMS_Tarbosaurus_Gun</li>
-			<li>NoSwitch</li>
 			<li>DMS_MechWeaponUltraHeavy</li>
 			<li>DMS_MechWeaponTankGun</li>
 		</weaponTags>
