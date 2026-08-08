@@ -16,7 +16,7 @@
             <Bulk>35</Bulk>
             <RangedWeapon_Cooldown>0.58</RangedWeapon_Cooldown>
             <SightsEfficiency>1.2</SightsEfficiency>
-            <ShotSpread>0.05</ShotSpread>
+            <ShotSpread>0.06</ShotSpread>
             <SwayFactor>1.58</SwayFactor>
         </statBases>
 		<recipeMaker Inherit="False" />
