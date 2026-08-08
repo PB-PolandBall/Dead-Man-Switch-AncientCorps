@@ -12,7 +12,7 @@
 		</weaponClasses>
 		<weaponTags>
 			<li>DMS_KordMachineGun</li>
-			<li>DMS_MechWeaponHeavy</li>
+			<li>DMS_MechWeaponTransHeavy</li>
 			<li>A_SuppressWeaponHeavy</li>
 			<li>A_MG_Heavy</li>
 		</weaponTags>
@@ -79,7 +79,7 @@
 		</weaponClasses>
 		<weaponTags>
 			<li>DMS_VladimirovMachineGun</li>
-			<li>DMS_MechWeaponHeavy</li>
+			<li>DMS_MechWeaponTransHeavy</li>
 			<li>A_SuppressWeaponHeavy</li>
 			<li>A_MG_Heavy</li>
 		</weaponTags>
@@ -172,7 +172,7 @@
 		</weaponClasses>
 		<weaponTags>
 			<li>DMS_AerialAutocannon</li>
-			<li>DMS_MechWeaponHeavy</li>
+			<li>DMS_MechWeaponTransHeavy</li>
 			<li>A_SuppressWeaponHeavy</li>
 		</weaponTags>
 		<graphicData>
