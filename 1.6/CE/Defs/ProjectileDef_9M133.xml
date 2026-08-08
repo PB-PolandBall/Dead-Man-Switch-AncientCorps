@@ -3,7 +3,7 @@
 	<!-- ================== Projectiles ================== -->
 	<ThingDef ParentName="BaseExplosiveBullet">
 		<defName>DMSAC_Bullet_StugnaATGM</defName>
-		<label>9M133 "Stugna" AntiTank missile</label>
+		<label>"Stugna" AntiTank missile</label>
 		<graphicData>
 			<texPath>Things/Projectiles/DMS_9M133Missile/projectile</texPath>
 			<shaderType>TransparentPostLight</shaderType>
